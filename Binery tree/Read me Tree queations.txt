@@ -1,0 +1,54 @@
+1  -  Print the leaf nodes of given tree.
+2  -  print the all left node of every node.
+3  -  print the all right node of every node.
+4  -  print all nodes of given level.
+5  -  print only left sub tree if root node given.
+6  -  print only right sub tree if root node given.
+7  -  find the sum of all node of given tree.
+8  -  find the height of the tree.
+9 -  Tree is a binery or not.
+10 -  print all path from root node to leaf.
+11 -  print the longest path from root node to leaf.
+12 -  print longest path of the tree of every node. 
+
+
+
+
+
+Easy Binary Tree Questions:->
+1  -  Find the height (depth) of a binary tree.
+2  -  Check if a binary tree is balanced.
+3  -  Print all the leaf nodes of a binary tree.
+4  -  Find the lowest common ancestor of two nodes in a binary tree.
+5  -  Check if a binary tree is a binary search tree (BST).
+6  -  Sum of all nodes at a given level in a binary tree.
+7  -  Count the number of nodes in a binary tree.
+8  -  Mirror or invert a binary tree.
+9  -  Find the diameter (the longest path between any two nodes) of a binary tree.
+10 -  Check if two binary trees are identical.
+
+
+Medium Binary Tree Questions:->
+1  -  Print all the nodes at distance K from a given node in a binary tree.
+2  -  Serialize and deserialize a binary tree.
+3  -  Find the maximum sum path between any two leaves in a binary tree.
+4  -  Construct a binary tree from its inorder and preorder traversals.
+5  -  Convert a binary search tree (BST) into a sorted doubly linked list.
+6  -  Find the kth smallest element in a binary search tree.
+7  -  Find the lowest common ancestor of two nodes in a binary search tree.
+8  -  Check if a binary tree is a subtree of another binary tree.
+9  -  Connect nodes at the same level in a binary tree (populate next right pointers).
+10 -  Find the maximum width of a binary tree.
+
+
+Hard Binary Tree Questions:->
+1  -  Recover a BST with two swapped nodes.
+2  -  Find the longest consecutive sequence in a binary tree.
+3  -  Serialize and deserialize a binary tree with arbitrary pointers.
+4  -  Find the sum of all nodes in the longest path from the root to a leaf.
+5  -  Find the maximum sum path between any two nodes in a binary tree.
+6  -  Implement an efficient binary tree traversal without using recursion or a stack.
+7  -  Find the kth largest element in a binary search tree.
+8  -  Find the maximum product subtree in a binary tree.
+9  -  Serialize and deserialize an N-ary tree.
+10 -  Find the LCA of the deepest leaves in a binary tree.
